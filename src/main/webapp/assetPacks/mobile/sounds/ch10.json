@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch10.m4a",
+    "ch10.ogg",
+    "ch10.mp3"
+  ],
+  "sprite": {
+    "MultiplierFound": [
+      0,
+      2718.458049886621
+    ],
+    "ExitMusicLoop1": [
+      3050,
+      19602.086167800455
+    ]
+  }
+}

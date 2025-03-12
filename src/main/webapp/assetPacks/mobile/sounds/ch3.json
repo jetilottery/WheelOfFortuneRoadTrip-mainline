@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch3.m4a",
+    "ch3.ogg",
+    "ch3.mp3"
+  ],
+  "sprite": {
+    "YourNumReveal": [
+      0,
+      925.170068027211
+    ],
+    "SpinButtonTouch": [
+      1050,
+      3483.0612244897957
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{"frames": {
+
+"lock-Opening_0000.png":
+{
+	"frame": {"x":538,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0001.png":
+{
+	"frame": {"x":688,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0002.png":
+{
+	"frame": {"x":692,"y":186,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0003.png":
+{
+	"frame": {"x":838,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0004.png":
+{
+	"frame": {"x":842,"y":151,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0005.png":
+{
+	"frame": {"x":988,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0006.png":
+{
+	"frame": {"x":992,"y":151,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0007.png":
+{
+	"frame": {"x":688,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0008.png":
+{
+	"frame": {"x":1138,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0009.png":
+{
+	"frame": {"x":1288,"y":1,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0010.png":
+{
+	"frame": {"x":1142,"y":151,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0011.png":
+{
+	"frame": {"x":1292,"y":151,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"lock-Opening_0012.png":
+{
+	"frame": {"x":1146,"y":301,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"Map-Marker-Played.png":
+{
+	"frame": {"x":421,"y":205,"w":63,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":37},
+	"sourceSize": {"w":63,"h":37}
+},
+"Map-Marker-Silver-Played.png":
+{
+	"frame": {"x":538,"y":151,"w":73,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":42},
+	"sourceSize": {"w":73,"h":42}
+},
+"Map-Marker-Silver.png":
+{
+	"frame": {"x":613,"y":151,"w":73,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":42},
+	"sourceSize": {"w":73,"h":42}
+},
+"Map-Marker.png":
+{
+	"frame": {"x":460,"y":205,"w":63,"h":37},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":37},
+	"sourceSize": {"w":63,"h":37}
+},
+"Map-Player-Marker-Ripple.png":
+{
+	"frame": {"x":1296,"y":301,"w":135,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":74},
+	"sourceSize": {"w":135,"h":74}
+},
+"Map-Player-Marker.png":
+{
+	"frame": {"x":1296,"y":377,"w":92,"h":116},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":116},
+	"sourceSize": {"w":92,"h":116}
+},
+"MapFuelMeter.png":
+{
+	"frame": {"x":421,"y":1,"w":202,"h":115},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":115},
+	"sourceSize": {"w":202,"h":115}
+},
+"MiniGasSymbol.png":
+{
+	"frame": {"x":688,"y":151,"w":33,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":28},
+	"sourceSize": {"w":33,"h":28}
+},
+"Padlock-Unlocked.png":
+{
+	"frame": {"x":532,"y":205,"w":164,"h":158},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":158},
+	"sourceSize": {"w":164,"h":158}
+},
+"Padlock_locked.png":
+{
+	"frame": {"x":499,"y":205,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"Ticket-Cost-Fuel-Meter-Image.png":
+{
+	"frame": {"x":281,"y":1,"w":268,"h":138},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":138},
+	"sourceSize": {"w":268,"h":138}
+},
+"Ticket-Cost-Fuel-Meter-Pointer.png":
+{
+	"frame": {"x":1,"y":453,"w":46,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":15},
+	"sourceSize": {"w":46,"h":15}
+},
+"Ticket-Cost-Map-ImageV2.png":
+{
+	"frame": {"x":1,"y":1,"w":273,"h":138},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":138},
+	"sourceSize": {"w":273,"h":138}
+},
+"Ticket-Cost-Message-Banner.png":
+{
+	"frame": {"x":532,"y":371,"w":612,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":612,"h":104},
+	"sourceSize": {"w":612,"h":104}
+},
+"Ticket-Cost-unlock-Image.png":
+{
+	"frame": {"x":141,"y":1,"w":273,"h":138},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":138},
+	"sourceSize": {"w":273,"h":138}
+},
+"ticketCostLevelIconOff.png":
+{
+	"frame": {"x":1,"y":470,"w":15,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":4},
+	"sourceSize": {"w":15,"h":4}
+},
+"ticketCostLevelIconOn.png":
+{
+	"frame": {"x":18,"y":470,"w":15,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":4},
+	"sourceSize": {"w":15,"h":4}
+},
+"ToolTip.png":
+{
+	"frame": {"x":1,"y":276,"w":529,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":529,"h":175},
+	"sourceSize": {"w":529,"h":175}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Map_TicketCost.png",
+	"format": "RGBA8888",
+	"size": {"w":1441,"h":476},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6233393c58428d17e2f4425517ec8d29:50fddcce75b6d66cdc44f5eefb9afbfe:22c036b9fc9211274a919536ef20541c$"
+}
+}

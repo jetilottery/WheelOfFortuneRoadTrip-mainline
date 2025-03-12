@@ -1,0 +1,14 @@
+{
+    "showTutorialAtBeginning": true,
+    "enableAudioDialog":false,
+    "revealInterval": 125,
+    "winningNumbersRevealInterval":1,
+	"scrollInterval":2000,
+    "levelUpType": 1,
+    "scene1Cents": 6000,
+    "scene2Cents": 6000,
+    "scene3Cents": 6000,
+    "scene4Cents": 6000,
+    "transferBonusIntervalWin":4000,
+    "transferBonusIntervalNoWin":2000
+}

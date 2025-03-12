@@ -1,0 +1,604 @@
+{"frames": {
+
+"How-To-Play-Bonus-Wheel.png":
+{
+	"frame": {"x":1,"y":617,"w":429,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":160},
+	"sourceSize": {"w":429,"h":160}
+},
+"How-To-Play-Fuel-Coin.png":
+{
+	"frame": {"x":613,"y":650,"w":159,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":161},
+	"sourceSize": {"w":159,"h":161}
+},
+"How-To-Play-Fuel-Meter-Pointer.png":
+{
+	"frame": {"x":828,"y":708,"w":74,"h":18},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":18},
+	"sourceSize": {"w":74,"h":18}
+},
+"How-To-Play-Fuel-Meter.png":
+{
+	"frame": {"x":432,"y":650,"w":179,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":179},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0000.png":
+{
+	"frame": {"x":1615,"y":675,"w":77,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":115,"w":77,"h":21},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0001.png":
+{
+	"frame": {"x":1615,"y":698,"w":77,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":115,"w":77,"h":21},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0002.png":
+{
+	"frame": {"x":1624,"y":602,"w":77,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":114,"w":77,"h":22},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0003.png":
+{
+	"frame": {"x":1722,"y":444,"w":77,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":113,"w":77,"h":23},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0004.png":
+{
+	"frame": {"x":848,"y":704,"w":77,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":111,"w":77,"h":25},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0005.png":
+{
+	"frame": {"x":1624,"y":572,"w":76,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":108,"w":76,"h":28},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0006.png":
+{
+	"frame": {"x":1688,"y":444,"w":75,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":104,"w":75,"h":32},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0007.png":
+{
+	"frame": {"x":224,"y":779,"w":74,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":100,"w":74,"h":36},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0008.png":
+{
+	"frame": {"x":1571,"y":675,"w":73,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":95,"w":73,"h":42},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0009.png":
+{
+	"frame": {"x":1,"y":779,"w":70,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":90,"w":70,"h":47},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0010.png":
+{
+	"frame": {"x":841,"y":650,"w":68,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":85,"w":68,"h":52},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0011.png":
+{
+	"frame": {"x":774,"y":650,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":81,"w":65,"h":56},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0012.png":
+{
+	"frame": {"x":1624,"y":444,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":77,"w":62,"h":60},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0013.png":
+{
+	"frame": {"x":1624,"y":506,"w":57,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":73,"w":57,"h":64},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0014.png":
+{
+	"frame": {"x":774,"y":708,"w":52,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":69,"w":52,"h":68},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0015.png":
+{
+	"frame": {"x":1571,"y":603,"w":47,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":67,"w":47,"h":70},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0016.png":
+{
+	"frame": {"x":73,"y":779,"w":43,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":64,"w":43,"h":73},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0017.png":
+{
+	"frame": {"x":148,"y":779,"w":38,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":63,"w":38,"h":74},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0018.png":
+{
+	"frame": {"x":300,"y":779,"w":34,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":61,"w":34,"h":75},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0019.png":
+{
+	"frame": {"x":432,"y":617,"w":30,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":61,"w":30,"h":75},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0020.png":
+{
+	"frame": {"x":1571,"y":750,"w":27,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":27,"h":76},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0021.png":
+{
+	"frame": {"x":875,"y":704,"w":25,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":25,"h":76},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0022.png":
+{
+	"frame": {"x":1620,"y":626,"w":23,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":23,"h":76},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0023.png":
+{
+	"frame": {"x":1620,"y":651,"w":22,"h":77},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":22,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0024.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0025.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0026.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0027.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0028.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0029.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0030.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0031.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0032.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0033.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0034.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0035.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0036.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0037.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0038.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0039.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0040.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0041.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0042.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0043.png":
+{
+	"frame": {"x":1600,"y":750,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0044.png":
+{
+	"frame": {"x":902,"y":704,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0045.png":
+{
+	"frame": {"x":1623,"y":744,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":59,"w":21,"h":77},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0046.png":
+{
+	"frame": {"x":1669,"y":744,"w":21,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":60,"w":21,"h":76},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0047.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0048.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0049.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0050.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0051.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0052.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0053.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0054.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0055.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0056.png":
+{
+	"frame": {"x":1683,"y":506,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0057.png":
+{
+	"frame": {"x":1692,"y":744,"w":76,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":115,"w":76,"h":21},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0058.png":
+{
+	"frame": {"x":1615,"y":721,"w":77,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":115,"w":77,"h":21},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Fuel-Meter_Pointer_Anim_0059.png":
+{
+	"frame": {"x":1646,"y":744,"w":77,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":115,"w":77,"h":21},
+	"sourceSize": {"w":179,"h":179}
+},
+"How-To-Play-Map-Image.png":
+{
+	"frame": {"x":575,"y":469,"w":376,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":179},
+	"sourceSize": {"w":376,"h":179}
+},
+"How-To-Play-Map-segment-Image.png":
+{
+	"frame": {"x":953,"y":603,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"How-To-Play-Segments-Image.png":
+{
+	"frame": {"x":1159,"y":603,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"How-To-Play-Wheel-Image.png":
+{
+	"frame": {"x":1365,"y":603,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"Landscape-How-To-Play-Banner.png":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":466},
+	"sourceSize": {"w":960,"h":466}
+},
+"Landscape-How-To-Play-Multiplier-Image.png":
+{
+	"frame": {"x":1,"y":469,"w":572,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":146},
+	"sourceSize": {"w":572,"h":146}
+},
+"Portrait-How-To-Play-Banner.png":
+{
+	"frame": {"x":963,"y":1,"w":600,"h":659},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":659},
+	"sourceSize": {"w":600,"h":659}
+},
+"Portrait-How-To-Play-Multiplier-Image.png":
+{
+	"frame": {"x":1624,"y":1,"w":441,"h":122},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":441,"h":122},
+	"sourceSize": {"w":441,"h":122}
+},
+"tutorialPageIconOff.png":
+{
+	"frame": {"x":613,"y":813,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"tutorialPageIconOn.png":
+{
+	"frame": {"x":631,"y":813,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HowToPlay.png",
+	"format": "RGBA8888",
+	"size": {"w":1747,"h":830},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:15ec72382a2cd7a85118a862b9bcaf44:7c16e778a0e36aa12ccf0ae785d9df3d:e89a967b8b77721c219ea294199a89e7$"
+}
+}

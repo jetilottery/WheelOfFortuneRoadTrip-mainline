@@ -1,0 +1,212 @@
+{"frames": {
+
+"fuel-trail_0000.png":
+{
+	"frame": {"x":1,"y":189,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0001.png":
+{
+	"frame": {"x":123,"y":189,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0002.png":
+{
+	"frame": {"x":123,"y":311,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0003.png":
+{
+	"frame": {"x":1,"y":322,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0004.png":
+{
+	"frame": {"x":123,"y":433,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0005.png":
+{
+	"frame": {"x":1,"y":455,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0006.png":
+{
+	"frame": {"x":123,"y":555,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0007.png":
+{
+	"frame": {"x":1,"y":588,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0008.png":
+{
+	"frame": {"x":123,"y":677,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0009.png":
+{
+	"frame": {"x":1,"y":721,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0010.png":
+{
+	"frame": {"x":123,"y":799,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0011.png":
+{
+	"frame": {"x":1,"y":854,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0012.png":
+{
+	"frame": {"x":123,"y":921,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0013.png":
+{
+	"frame": {"x":1,"y":987,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0014.png":
+{
+	"frame": {"x":123,"y":1043,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0015.png":
+{
+	"frame": {"x":1,"y":1120,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0016.png":
+{
+	"frame": {"x":123,"y":1165,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0017.png":
+{
+	"frame": {"x":1,"y":1253,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0018.png":
+{
+	"frame": {"x":123,"y":1287,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0019.png":
+{
+	"frame": {"x":1,"y":1386,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0020.png":
+{
+	"frame": {"x":123,"y":1409,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0021.png":
+{
+	"frame": {"x":1,"y":1519,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0022.png":
+{
+	"frame": {"x":1,"y":1652,"w":120,"h":131},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"fuel-trail_0023.png":
+{
+	"frame": {"x":134,"y":1531,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":131},
+	"sourceSize": {"w":120,"h":131}
+},
+"segment-unlock-tooltip-maingame.png":
+{
+	"frame": {"x":1,"y":1,"w":206,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":186},
+	"sourceSize": {"w":206,"h":186}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FuelTrail.png",
+	"format": "RGBA8888",
+	"size": {"w":255,"h":1773},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4bdd469c5d30661e2dc31d51695e1a54:4ae628a08362b39e273f0e393b9780dc:4491091df2ee5993bf4ed72dbb0509c3$"
+}
+}

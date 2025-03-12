@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch8.m4a",
+    "ch8.ogg",
+    "ch8.mp3"
+  ],
+  "sprite": {
+    "FuelMeterFilled": [
+      0,
+      6417.777777777777
+    ]
+  }
+}

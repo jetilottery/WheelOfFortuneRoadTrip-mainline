@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch5.m4a",
+    "ch5.ogg",
+    "ch5.mp3"
+  ],
+  "sprite": {
+    "WinFanfare": [
+      0,
+      3070.8390022675735
+    ],
+    "CrowdAnticipationStart_03": [
+      4050,
+      3668.1179138322
+    ],
+    "CrowdAnticipationEnd_Win": [
+      8100,
+      6024.126984126985
+    ],
+    "CrowdAnticipationEnd_lose": [
+      15150,
+      1933.2426303854877
+    ]
+  }
+}

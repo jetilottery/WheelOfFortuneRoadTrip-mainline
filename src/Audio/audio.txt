@@ -1,0 +1,35 @@
+export PATH=$PATH:/C:/Users/liua/AppData/Roaming/npm/node_modules/audiosprite/ffmpeg/bin
+cd D:/SKB/code/IW/liua_CPEKW-Q1100713_IW-WheelOfFortuneRoadTrip-mainline_3090/src/Audio
+
+ch0="BetUp.wav BetDown.wav BetMax.wav IntroMusic_stereo_44k.wav"
+audiosprite -o ch0 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch0
+
+ch1="BetUp.wav BetDown.wav Buy.wav"
+audiosprite -o ch1 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch1
+
+ch2="WinNumReveal.wav WheelBonusChant.wav MapLevelLoop.wav"
+audiosprite -o ch2 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch2
+
+ch3="YourNumReveal.wav SpinButtonTouch.wav "
+audiosprite -o ch3 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch3
+
+ch4="Ping.wav DrumRoll.wav WheelSpin_Start.wav WheelSpin_Spin.wav WheelSpin_Stop.wav WheelStop_Win.wav WheelStop_NoWin.wav"
+audiosprite -o ch4 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch4
+
+ch5="WinFanfare.wav CrowdAnticipationStart_03.wav CrowdAnticipationEnd_Win.wav CrowdAnticipationEnd_lose.wav"
+audiosprite -o ch5 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch5
+
+ch6="BGMusicLoop.wav BonusWheelEnd.wav"
+audiosprite -o ch6 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch6
+
+ch7="FuelFound.wav WheelSpinLoop.wav"
+audiosprite -o ch7 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch7
+
+ch8="FuelMeterFilled.wav"
+audiosprite -o ch8 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch8
+
+ch9="Click.wav EngineTransition.wav"
+audiosprite -o ch9 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch9
+
+ch10="MultiplierFound.wav ExitMusicLoop1.wav"
+audiosprite -o ch10 -f howler -e m4a,ogg,mp3 -g 0.05 -v 9 -b 36 -r 44100 $ch10

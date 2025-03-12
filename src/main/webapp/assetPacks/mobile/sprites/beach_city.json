@@ -1,0 +1,172 @@
+{"frames": {
+
+"Fuel-Meter-Beach.png":
+{
+	"frame": {"x":603,"y":807,"w":312,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":159},
+	"sourceSize": {"w":312,"h":159}
+},
+"Fuel-Meter-City.png":
+{
+	"frame": {"x":917,"y":807,"w":312,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":159},
+	"sourceSize": {"w":312,"h":159}
+},
+"Landscape-Winning-Numbers-Background-Circle-Beach.png":
+{
+	"frame": {"x":1794,"y":459,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Landscape-Winning-Numbers-Background-Circle-City.png":
+{
+	"frame": {"x":1792,"y":611,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Landscape-Winning-Numbers-Background-Panel-Beach.png":
+{
+	"frame": {"x":603,"y":459,"w":311,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":346},
+	"sourceSize": {"w":311,"h":346}
+},
+"Landscape-Winning-Numbers-Background-Panel-City.png":
+{
+	"frame": {"x":916,"y":459,"w":311,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":346},
+	"sourceSize": {"w":311,"h":346}
+},
+"Landscape-Your-Numbers-Background-Circle-Beach.png":
+{
+	"frame": {"x":1509,"y":665,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+},
+"Landscape-Your-Numbers-Background-Circle-City.png":
+{
+	"frame": {"x":1607,"y":665,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+},
+"Landscape-Your-Numbers-Background-Panel-Beach.png":
+{
+	"frame": {"x":603,"y":1,"w":692,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":456},
+	"sourceSize": {"w":692,"h":456}
+},
+"Landscape-Your-Numbers-Background-Panel-City.png":
+{
+	"frame": {"x":1297,"y":1,"w":692,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":456},
+	"sourceSize": {"w":692,"h":456}
+},
+"Portrait-Winning-Numbers-Background-Circle-Beach.png":
+{
+	"frame": {"x":1229,"y":665,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"Portrait-Winning-Numbers-Background-Circle-City.png":
+{
+	"frame": {"x":1369,"y":665,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"Portrait-Winning-Numbers-Background-Panel-Beach.png":
+{
+	"frame": {"x":1229,"y":459,"w":561,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":204},
+	"sourceSize": {"w":561,"h":204}
+},
+"Portrait-Winning-Numbers-Background-Panel-City.png":
+{
+	"frame": {"x":1231,"y":805,"w":561,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":204},
+	"sourceSize": {"w":561,"h":204}
+},
+"Portrait-Your-Numbers-Background-Circle-Beach.png":
+{
+	"frame": {"x":1705,"y":665,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"Portrait-Your-Numbers-Background-Circle-City.png":
+{
+	"frame": {"x":1794,"y":763,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"Portrait-Your-Numbers-Background-Panel-Beach.png":
+{
+	"frame": {"x":1,"y":1,"w":600,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":488},
+	"sourceSize": {"w":600,"h":488}
+},
+"Portrait-Your-Numbers-Background-Panel-City.png":
+{
+	"frame": {"x":1,"y":491,"w":600,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":488},
+	"sourceSize": {"w":600,"h":488}
+},
+"Prize-Banner-Beach.png":
+{
+	"frame": {"x":603,"y":968,"w":102,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":34},
+	"sourceSize": {"w":102,"h":34}
+},
+"Prize-Banner-City.png":
+{
+	"frame": {"x":707,"y":968,"w":102,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":34},
+	"sourceSize": {"w":102,"h":34}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "beach_city.png",
+	"format": "RGBA8888",
+	"size": {"w":1990,"h":1010},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0b7f535a536b663e918377fc869e88fa:7c09eb166a8adb8aa850cf6b03cea8d0:cb25deedae23c416017521b4f035b178$"
+}
+}

@@ -1,0 +1,252 @@
+{"frames": {
+
+"Fuel-Meter-Forest.png":
+{
+	"frame": {"x":464,"y":1297,"w":312,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":159},
+	"sourceSize": {"w":312,"h":159}
+},
+"Fuel-Meter-Mountain.png":
+{
+	"frame": {"x":778,"y":1297,"w":312,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":159},
+	"sourceSize": {"w":312,"h":159}
+},
+"Fuel-Meter-Peak.png":
+{
+	"frame": {"x":1655,"y":1010,"w":311,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":159},
+	"sourceSize": {"w":311,"h":159}
+},
+"Landscape-Winning-Numbers-Background-Circle-Forest.png":
+{
+	"frame": {"x":1655,"y":1171,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Landscape-Winning-Numbers-Background-Circle-Mountain.png":
+{
+	"frame": {"x":1655,"y":1323,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Landscape-Winning-Numbers-Background-Circle-Peak.png":
+{
+	"frame": {"x":1807,"y":1171,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Landscape-Winning-Numbers-Background-Panel-Forest.png":
+{
+	"frame": {"x":1092,"y":603,"w":311,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":346},
+	"sourceSize": {"w":311,"h":346}
+},
+"Landscape-Winning-Numbers-Background-Panel-Mountain.png":
+{
+	"frame": {"x":1089,"y":951,"w":311,"h":346},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":346},
+	"sourceSize": {"w":311,"h":346}
+},
+"Landscape-Winning-Numbers-Background-Panel-Peak.png":
+{
+	"frame": {"x":1655,"y":697,"w":311,"h":346},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":346},
+	"sourceSize": {"w":311,"h":346}
+},
+"Landscape-Your-Numbers-Background-Circle-Forest.png":
+{
+	"frame": {"x":949,"y":1023,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+},
+"Landscape-Your-Numbers-Background-Circle-Mountain.png":
+{
+	"frame": {"x":949,"y":1121,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+},
+"Landscape-Your-Numbers-Background-Circle-Peak.png":
+{
+	"frame": {"x":1807,"y":1323,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+},
+"Landscape-Your-Numbers-Background-Panel-Forest.png":
+{
+	"frame": {"x":1,"y":1,"w":692,"h":456},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":456},
+	"sourceSize": {"w":692,"h":456}
+},
+"Landscape-Your-Numbers-Background-Panel-Mountain.png":
+{
+	"frame": {"x":1,"y":695,"w":692,"h":456},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":456},
+	"sourceSize": {"w":692,"h":456}
+},
+"Landscape-Your-Numbers-Background-Panel-Peak.png":
+{
+	"frame": {"x":459,"y":1,"w":692,"h":456},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":456},
+	"sourceSize": {"w":692,"h":456}
+},
+"Portrait-Winning-Numbers-Background-Circle-Forest.png":
+{
+	"frame": {"x":949,"y":603,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"Portrait-Winning-Numbers-Background-Circle-Mountain.png":
+{
+	"frame": {"x":949,"y":743,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"Portrait-Winning-Numbers-Background-Circle-Peak.png":
+{
+	"frame": {"x":949,"y":883,"w":138,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":138},
+	"sourceSize": {"w":138,"h":138}
+},
+"Portrait-Winning-Numbers-Background-Panel-Forest.png":
+{
+	"frame": {"x":1407,"y":491,"w":561,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":204},
+	"sourceSize": {"w":561,"h":204}
+},
+"Portrait-Winning-Numbers-Background-Panel-Mountain.png":
+{
+	"frame": {"x":1092,"y":1264,"w":561,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":204},
+	"sourceSize": {"w":561,"h":204}
+},
+"Portrait-Winning-Numbers-Background-Panel-Peak.png":
+{
+	"frame": {"x":1437,"y":697,"w":561,"h":204},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":204},
+	"sourceSize": {"w":561,"h":204}
+},
+"Portrait-Your-Numbers-Background-Circle-Forest.png":
+{
+	"frame": {"x":1,"y":1389,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"Portrait-Your-Numbers-Background-Circle-Mountain.png":
+{
+	"frame": {"x":86,"y":1389,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"Portrait-Your-Numbers-Background-Circle-Peak.png":
+{
+	"frame": {"x":171,"y":1389,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"Portrait-Your-Numbers-Background-Panel-Forest.png":
+{
+	"frame": {"x":459,"y":695,"w":600,"h":488},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":488},
+	"sourceSize": {"w":600,"h":488}
+},
+"Portrait-Your-Numbers-Background-Panel-Mountain.png":
+{
+	"frame": {"x":917,"y":1,"w":600,"h":488},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":488},
+	"sourceSize": {"w":600,"h":488}
+},
+"Portrait-Your-Numbers-Background-Panel-Peak.png":
+{
+	"frame": {"x":1407,"y":1,"w":600,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":488},
+	"sourceSize": {"w":600,"h":488}
+},
+"Prize-Banner-Forest.png":
+{
+	"frame": {"x":256,"y":1389,"w":102,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":34},
+	"sourceSize": {"w":102,"h":34}
+},
+"Prize-Banner-Mountain.png":
+{
+	"frame": {"x":256,"y":1425,"w":102,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":34},
+	"sourceSize": {"w":102,"h":34}
+},
+"Prize-Banner-Peak.png":
+{
+	"frame": {"x":360,"y":1389,"w":102,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":34},
+	"sourceSize": {"w":102,"h":34}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mountain_forest_peak.png",
+	"format": "RGBA8888",
+	"size": {"w":2008,"h":1474},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88b5cb04059d04e05b1475e0e864fdb4:8dcb375af59c83fa3b6a9e2134fdf85e:183bd941192d9b71e2e3e2abc2913a33$"
+}
+}

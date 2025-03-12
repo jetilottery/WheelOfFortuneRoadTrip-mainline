@@ -1,0 +1,33 @@
+define([
+    'game/configController',
+	'game/revealAllFunc',
+	'game/playAnimationController',
+	'game/stopController',
+	'game/loadController',
+    'game/paytableHelpController',
+	'game/revealAllController',
+    'skbJet/componentCRDC/IwGameControllers/gameUtils',
+	'game/audioController',
+	'game/buyAndTryController',
+	'game/errorWarningController',
+	'skbJet/componentCRDC/IwGameControllers/exitAndHomeController',
+	'skbJet/componentCRDC/IwGameControllers/gameSizeController',
+	'skbJet/componentCRDC/IwGameControllers/metersController',
+    'skbJet/componentCRDC/IwGameControllers/playAgainController',
+	'game/playWithMoneyController',
+	'game/resultController',
+	'game/ticketCostController',
+    'game/winUpToController',
+    'game/mapController',
+    'game/levelController',
+    'game/bonusController',
+    'game/RotaryTable',
+    'game/tutorialController',
+    'game/backgroudController',
+    'game/bonusEmitter',
+    'game/FuelPointController',
+	'skbJet/componentCRDC/IwGameControllers/jLotteryInnerLoarderUIController',
+	'skbJet/componentCRDC/IwGameControllers/rotateController'
+], function () {
+	return {};
+});
